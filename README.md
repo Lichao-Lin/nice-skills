@@ -27,3 +27,19 @@ Use this skill when the user asks to:
   ```bash
   rm -rf ~/AppData/Local/ms-playwright/b/*
   rm -rf ~/AppData/Local/npm-cache/_npx/9833c18b2d85bc59
+Getting Started
+Project Structure
+Code
+nice-skills/
+└── skills/                           # Directory for all skills
+    └── bilibili-video-summary1/      # Bilibili video search and summary skill
+How to Add a Skill
+Create your skill file or directory in the skills/ directory
+Implement your skill functionality
+Submit a Pull Request
+Contributing
+We welcome new skill contributions! Please ensure:
+
+Code is clear and well-documented
+Include basic usage instructions
+Follow project conventions
