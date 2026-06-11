@@ -128,38 +128,7 @@ nice-skills/
 3. Update this README with a new skill entry following the template below
 4. Submit a Pull Request
 
-### Skill Template
 
-When adding a new skill, follow this structure in the README:
-
-```markdown
-## skill-name
-
-**Brief one-line description of what the skill does**
-
-### Overview
-Longer description of the skill...
-
-### When to Use
-List of use cases and trigger phrases...
-
-### Version
-X.X.X
-
-### Prerequisites
-Any requirements or dependencies...
-
-### How It Works
-
-#### Step 1: ...
-Description...
-
-#### Step 2: ...
-Description...
-
-### Example
-Usage example...
-```
 
 ---
 
